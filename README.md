@@ -26,7 +26,7 @@ A FalconAgro centraliza todos os processos da classificação de grãos, desde a
 | Plano         | Valor     | Indicado para                          |
 |---------------|-----------|----------------------------------------|
 | Essencial     | Gratuito  | Testes iniciais e pequenas operações   |
-| Profissional  | R$700/mês | Pequenas e médias classificadoras      |
+| Profissional  | Sob consulta | Pequenas e médias classificadoras      |
 | Personalizado | Sob consulta | Grandes classificadoras com alto volume |
 
 🔹 [Veja a comparação completa dos planos](https://falconagro.com.br/)
